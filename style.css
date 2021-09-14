@@ -1,0 +1,38 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.loader {
+    background-color: grey;
+    padding: 10px;
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
+.loader1,
+.loader2,
+.loader3,
+.loader4 {
+    margin: 20px;
+    padding: 10px;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.main img {
+    width: 4%;
+}
+
+.submit {
+    background-color: green;
+    border: none;
+    font-weight: 700;
+    font-size: 1.3rem;
+    padding: 10px;
+    color: white;
+}
